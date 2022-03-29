@@ -16,11 +16,6 @@ A number of discrepancies was found between the original dataset and the control
 
 * As can be seen from the pictures, the exclusion of Thomas's High School small sample of ninth-graders' test results accounted for a slight decrease in the average reported math scores, overall percentage of students passing math and reading separately, as well as math and reading results combined.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/99566803/160525941-7901a9e0-03f0-476c-a50d-20a078998adc.png" />
-  <img src="https://user-images.githubusercontent.com/99566803/160525945-615f0a81-d402-47bf-8ed5-11011a9f3753.png" />
-</p>
-
 * In terms of Thomas's High School grade distribution, the exclusion of ninth-graders' test results accounted for an almost 30% increase in overall percentage of students passing math and reading, both separately, and combined. However, no effect is found on the overall school district summary with or without the ninth-graders' test results.
 
 * In terms of Thomas High School placement against the other district schools, there was also an almost 30% increase in the overall percentage of students passing the two courses examined.
