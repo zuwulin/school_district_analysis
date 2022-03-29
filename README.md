@@ -1,4 +1,4 @@
-# school_district_analysis
+# School District Analysis
 
 ## Overview of Analysis
 The current project was requested by a district school board overseeing 15 high school bodies to evaluate current fund allocation efficiency and make adjustments to each respective school's budget, if needed.
